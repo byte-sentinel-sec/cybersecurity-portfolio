@@ -2,7 +2,7 @@
 
 Entry-level cybersecurity analyst candidate with hands-on practice in incident response, network traffic analysis, risk assessment, Linux, SQL, and Python automation.
 
-📫 **Contact:** `your-email@example.com` · [LinkedIn](https://www.linkedin.com/in/your-profile) <!-- TODO: update -->
+📫 **Contact:** `sagarthapa.work65@gmail.com` · [LinkedIn](https://www.linkedin.com/in/your-profile) <!-- TODO: update -->
 
 ---
 
